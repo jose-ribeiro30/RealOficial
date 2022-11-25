@@ -12,7 +12,7 @@ document.write(`
                     <li> <a href="estudanteCadastro.html" class="menuclicar" style="font-size: 1.5em; width: 100%;">ESTUDANTE</a></li>
                     <li> <a href="empresaCadastro.html" class="menuclicar" style="font-size: 1.5em; width: 100%;">EMPRESA</a> </li>
                 </ul></li>
-            <li><a href="#" class="botao-verde" style="font-size: 1.5em; margin-right: 10px;">LOGAR</a>
+            <li><a href="#" class="botao-verde" style="font-size: 1.5em; margin-right: 10px;color: white;">LOGAR</a>
                 <ul>
                     <li> <a href="estudanteLogar.php" class="menuclicar" style="font-size: 1.5em;width: 100%; ">ESTUDANTE</a> </li>
                     <li> <a href="empresaLogar.php" class="menuclicar" style="font-size: 1.5em; width:100%;"> EMPRESA </a> </li>  
